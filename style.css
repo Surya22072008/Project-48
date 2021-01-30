@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     text-align: center;
     margin: 0;
@@ -36,4 +40,7 @@ h1 {
     font-family: fantasy;
     font-size: 10px
 }
-.list:hover {background-color: #68e87d}
+
+.list:hover {
+    background-color: #68e87d
+}
