@@ -44,3 +44,7 @@ h1 {
 .list:hover {
     background-color: #68e87d
 }
+#img {height: 150px;width:150px;}
+#img1:hover {
+    transform: scale(0.9)
+}
